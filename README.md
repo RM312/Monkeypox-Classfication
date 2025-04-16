@@ -1,1 +1,1 @@
-#A clinical Monkeypox assessment support system based on Machine Learning approach
+# A Clinical Monkeypox Assessment Support System Based On Machine Learning Approach
