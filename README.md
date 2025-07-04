@@ -1,7 +1,5 @@
 # A Clinical Monkeypox Assessment Support System Based On Machine Learning Approach
 
-**# 🧠 Monkeypox Image Classification using Self-Attention CNN-BiGRU Hybrid Model
-
 This repository contains the source code and research materials for the project titled:
 
 **"A Clinical Monkeypox Assessment Support System Based on Machine Learning Approach"**
