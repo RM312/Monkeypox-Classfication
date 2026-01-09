@@ -75,3 +75,21 @@ Monkeypox-Classification/
     ├── Saved models
     ├── Performance metrics
     └── Result visualizations
+
+```
+##📊 Experimental Results
+
+The proposed CNN + Self-Attention + Bi-GRU model demonstrates:
+
+* Higher classification accuracy compared to CNN, LSTM, GRU, and Bi-LSTM models
+
+* Improved lesion region focus through the self-attention mechanism
+
+* Better generalization across multiple skin disease classes
+
+Detailed metrics, confusion matrices, and plots are available inside the Proposed/ directory.
+
+## 🤝 Contributing
+
+Contributions are welcome.
+You may open an issue or submit a pull request for improvements, bug fixes, or enhancements.
