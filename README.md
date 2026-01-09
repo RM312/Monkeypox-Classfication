@@ -77,6 +77,19 @@ Monkeypox-Classification/
     └── Result visualizations
 
 ```
+
+## 🏆 Key Contributions
+
+* Development of a novel hybrid deep learning architecture for Monkeypox classification
+
+* Multi-class skin lesion recognition framework
+
+* Extensive comparison with multiple deep learning baselines
+
+* Clinically motivated decision support system
+
+* Validation using real-world, publicly available datasets
+
 ## 📊 Experimental Results
 
 The proposed CNN + Self-Attention + Bi-GRU model demonstrates:
