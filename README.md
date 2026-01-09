@@ -77,7 +77,7 @@ Monkeypox-Classification/
     └── Result visualizations
 
 ```
-##📊 Experimental Results
+## 📊 Experimental Results
 
 The proposed CNN + Self-Attention + Bi-GRU model demonstrates:
 
