@@ -65,16 +65,17 @@ The models are trained and evaluated using publicly available benchmark datasets
 
 ## 📂 Repository Structure
 
-Monkeypox-Classfication/
+Monkeypox-Classification/
 │
-├── CNN/ # CNN-based baseline classifier
-├── LSTM/ # LSTM-based classifier
-├── GRU/ # GRU-based classifier
-├── Bi-LSTM/ # Bidirectional LSTM model
-├── Bi-GRU/ # Bidirectional GRU model
-├── Proposed/ # Final Hybrid Model (CNN + Self-Attention + Bi-GRU)
-  ├── Training scripts
-  ├── Evaluation code
-  ├── Saved models
-  ├── Performance metrics
-  └── Result visualizations
+├── CNN/                 # CNN-based baseline classifier
+├── LSTM/               # LSTM-based classifier
+├── GRU/                # GRU-based classifier
+├── Bi-LSTM/            # Bidirectional LSTM model
+├── Bi-GRU/             # Bidirectional GRU model
+├── Proposed/           # Final Hybrid Model (CNN + Self-Attention + Bi-GRU)
+│   ├── Training scripts
+│   ├── Evaluation code
+│   ├── Saved models
+│   ├── Performance metrics
+│   └── Result visualizations
+
